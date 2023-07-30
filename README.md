@@ -8,10 +8,10 @@ uScan是一款采用Yak语言编写的脚本，用来探测网站的状态，返
 ## 工具使用
 工具目前功能很简单，仅有-u和-f两个参数，探测的目标不包含“http://”或“https://”，使用-h查看使用文档：  
 `yak uScan.yak -h`
-![image](https://github.com/SoDa-LJ/uScan/assets/59957157/d8e50b1d-f9d5-4f4d-ace6-e8e8956a68bb)
+![image](https://github.com/SoDa-LJ/uScan/assets/59957157/d8e50b1d-f9d5-4f4d-ace6-e8e8956a68bb)  
 使用-u参数对单个url进行探测：  
 `yak uScan.yak -u xxx.com`
-![image](https://github.com/SoDa-LJ/uScan/assets/59957157/52f941c4-dcd9-4cc7-8cfa-d850224b05a2)
+![image](https://github.com/SoDa-LJ/uScan/assets/59957157/52f941c4-dcd9-4cc7-8cfa-d850224b05a2)  
 使用-f参数对txt中的url进行批量探测：  
 `yak uScan.yak -f xxx.txt`
-![image](https://github.com/SoDa-LJ/uScan/assets/59957157/8474541c-6258-49f4-b256-d8ae2781b56d)
+![image](https://github.com/SoDa-LJ/uScan/assets/59957157/8474541c-6258-49f4-b256-d8ae2781b56d)  
