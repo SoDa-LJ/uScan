@@ -12,11 +12,13 @@ yak uScan.yak -h
 ```  
 <img width="743" alt="1691150136055" src="https://github.com/SoDa-LJ/uScan/assets/59957157/ac0d937b-6cd9-4395-90be-d7b8de0af0f3">     
 使用-u参数对单个url进行探测：  
+
 ```
 yak uScan.yak -u xxx.com  
 ```  
 <img width="704" alt="1691150040746" src="https://github.com/SoDa-LJ/uScan/assets/59957157/9a1f3c4c-36f4-4570-a3e5-012b3da97410">  
 使用-f参数对txt中的url进行批量探测：  
+
 ```
 yak uScan.yak -f xxx.txt  
 ```  
