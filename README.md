@@ -10,18 +10,19 @@ uScan是一款采用Yak语言编写的脚本，用来探测网站的状态，返
 ```
 yak uScan.yak -h  
 ```  
-<img width="743" alt="1691150136055" src="https://github.com/SoDa-LJ/uScan/assets/59957157/ac0d937b-6cd9-4395-90be-d7b8de0af0f3">     
+<img width="759" alt="1701772675324" src="https://github.com/SoDa-LJ/uScan/assets/59957157/2a0146be-4780-4050-8311-82b1a69f6867">
   
 使用 -u 参数对单个url进行探测：  
 
 ```
 yak uScan.yak -u xxx.com  
 ```  
-<img width="704" alt="1691150040746" src="https://github.com/SoDa-LJ/uScan/assets/59957157/9a1f3c4c-36f4-4570-a3e5-012b3da97410">  
+<img width="694" alt="1701772754978" src="https://github.com/SoDa-LJ/uScan/assets/59957157/b9578060-5d83-448c-a1a5-34a07c83f3ca">  
   
 使用 -f 参数对txt中的url进行批量探测：  
 
 ```
 yak uScan.yak -f xxx.txt  
 ```  
-<img width="746" alt="1691149957893" src="https://github.com/SoDa-LJ/uScan/assets/59957157/cb790907-4251-48a5-83a8-e05b9d3f1349">  
+<img width="705" alt="1701772932477" src="https://github.com/SoDa-LJ/uScan/assets/59957157/665d0cc0-404b-4d22-814c-29129d0dc4e5">
+  
